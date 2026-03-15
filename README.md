@@ -1,3 +1,1 @@
-It is a simple game
-For frontend I have used html,CSS, and javascript
-For Backend I have used Python
+is an interactive 2D arcade-style brick breaker game developed using HTML, CSS, and JavaScript. The objective of the game is to control a paddle to bounce a ball and break all the bricks placed on the screen. The player must prevent the ball from falling below the paddle while trying to clear all bricks to win the level.
